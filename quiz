@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/640px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
+        "options": ["Madrid", "Rome", "Paris", "Berlin"],
+        "correct": 2,
+        "correctNote": "Correct! Paris is the capital of France.",
+        "incorrectNote": "Incorrect. The capital of France is Paris."
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/03/1c/9c.jpg",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "correct": 1,
+        "correctNote": "Correct! Mars is known as the Red Planet.",
+        "incorrectNote": "Incorrect. Mars is called the Red Planet."
+    }
+]
