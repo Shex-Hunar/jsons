@@ -5,7 +5,7 @@
         "options": ["Branchial cyst", "Ranula", "Carotid body tumor", "Thyroglossal duct cyst"],
         "correct": 4,
         "correctNote": "Correct! Thyroglossal duct cyst ",
-        "incorrectNote": "Incorrect.",
+        "incorrectNote": "Correct Answer is: Thyroglossal duct cyst",
         "showImage": true 
     },
     {
@@ -14,7 +14,7 @@
         "options": ["Neck Magnetic resonance imaging (MRI).", "Neck Computed tomography (CT)", "Neck Ultrasonography (U/S).", "Thyroid Scintigraphy"],
         "correct": 3,
         "correctNote": "Correct! Neck Ultrasonography (U/S).",
-        "incorrectNote": "Incorrect.",
+        "incorrectNote": "Correct Answer is: Neck Ultrasonography (U/S).",
         "showImage": false 
     },
     {
@@ -23,7 +23,7 @@
         "options": ["Antibiotic therapy", "Needle aspiration", "Radiation therapy", "Surgical removal using the Sistrunk procedure"],
         "correct": 4,
         "correctNote": "Correct! Surgical removal using the Sistrunk procedure",
-        "incorrectNote": "Incorrect.",
+        "incorrectNote": "Correct Answer is: Surgical removal using the Sistrunk procedure",
         "showImage": false 
     }
 ]
