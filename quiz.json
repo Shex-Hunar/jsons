@@ -10,7 +10,7 @@
     },
     {
         "question": "what is the most proper diagnostic tool?",
-        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/03/1c/9c.jpg",
+        "image": "https://assets.zyrosite.com/mjE2g8GxZDiv9OBQ/f349dc50-4b55-432b-b8c5-efc8b4f8de60-AQEyz9yxzVcpZbKE.jpg",
         "options": ["Neck Magnetic resonance imaging (MRI).", "Neck Computed tomography (CT)", "Neck Ultrasonography (U/S).", "Thyroid Scintigraphy"],
         "correct": 3,
         "correctNote": "Correct! Neck Ultrasonography (U/S).",
@@ -22,8 +22,8 @@
         "image": "https://assets.zyrosite.com/mjE2g8GxZDiv9OBQ/img_9933-Yg29D64gnkHW8jwk.JPG",
         "options": ["Antibiotic therapy", "Needle aspiration", "Radiation therapy", "Surgical removal using the Sistrunk procedure"],
         "correct": 4,
-        "correctNote": "Correct! Mars is known as the Red Planet.",
-        "incorrectNote": "Incorrect. Mars is called the Red Planet.",
+        "correctNote": "Correct! Surgical removal using the Sistrunk procedure",
+        "incorrectNote": "Incorrect.",
         "showImage": false 
     }
 ]
