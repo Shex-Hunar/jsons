@@ -5,7 +5,8 @@
         "options": ["Branchial cyst", "Ranula", "Carotid body tumor", "Thyroglossal duct cyst"],
         "correct": 3,
         "correctNote": "Correct! Thyroglossal duct cyst ",
-        "incorrectNote": "Incorrect."
+        "incorrectNote": "Incorrect.",
+        "showImage": true 
     },
     {
         "question": "what is the most proper diagnostic tool?",
@@ -13,7 +14,8 @@
         "options": ["Neck Magnetic resonance imaging (MRI).", "Neck Computed tomography (CT)", "Neck Ultrasonography (U/S).", "Thyroid Scintigraphy"],
         "correct": 2,
         "correctNote": "Correct! Neck Ultrasonography (U/S).",
-        "incorrectNote": "Incorrect."
+        "incorrectNote": "Incorrect.",
+        "showImage": false 
     },
     {
         "question": "Which of the following is the correct treatment option for this condition?",
@@ -21,6 +23,7 @@
         "options": ["Antibiotic therapy", "Needle aspiration", "Radiation therapy", "Surgical removal using the Sistrunk procedure"],
         "correct": 3,
         "correctNote": "Correct! Mars is known as the Red Planet.",
-        "incorrectNote": "Incorrect. Mars is called the Red Planet."
+        "incorrectNote": "Incorrect. Mars is called the Red Planet.",
+        "showImage": false 
     }
 ]
