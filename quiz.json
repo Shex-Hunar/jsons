@@ -3,7 +3,7 @@
         "question": "what is the most likely dignosis ?",
         "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1224,h=760,fit=crop,trim=51.806905370843985;0;51.806905370843985;0/mjE2g8GxZDiv9OBQ/img_9913-A854JQMqQxuRPw4n.JPG",
         "options": ["Branchial cyst", "Ranula", "Carotid body tumor", "Thyroglossal duct cyst"],
-        "correct": 3,
+        "correct": 4,
         "correctNote": "Correct! Thyroglossal duct cyst ",
         "incorrectNote": "Incorrect."
     },
@@ -11,7 +11,7 @@
         "question": "what is the most proper diagnostic tool?",
         "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/03/1c/9c.jpg",
         "options": ["Neck Magnetic resonance imaging (MRI).", "Neck Computed tomography (CT)", "Neck Ultrasonography (U/S).", "Thyroid Scintigraphy"],
-        "correct": 2,
+        "correct": 3,
         "correctNote": "Correct! Neck Ultrasonography (U/S).",
         "incorrectNote": "Incorrect."
     },
@@ -19,7 +19,7 @@
         "question": "Which of the following is the correct treatment option for this condition?",
         "image": "https://assets.zyrosite.com/mjE2g8GxZDiv9OBQ/img_9933-Yg29D64gnkHW8jwk.JPG",
         "options": ["Antibiotic therapy", "Needle aspiration", "Radiation therapy", "Surgical removal using the Sistrunk procedure"],
-        "correct": 3,
+        "correct": 4,
         "correctNote": "Correct! Mars is known as the Red Planet.",
         "incorrectNote": "Incorrect. Mars is called the Red Planet."
     }
